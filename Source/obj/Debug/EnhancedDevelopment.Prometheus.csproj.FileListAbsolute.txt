@@ -1,4 +1,0 @@
-C:\Users\Jonasz\Downloads\1553437514_ed_prometheus\Source\obj\Debug\EnhancedDevelopment.Prometheus.csproj.AssemblyReference.cache
-C:\Users\Jonasz\Downloads\1553437514_ed_prometheus\Source\obj\Debug\_EmptyResource.resources
-C:\Users\Jonasz\Downloads\1553437514_ed_prometheus\Source\obj\Debug\EnhancedDevelopment.Prometheus.csproj.GenerateResource.cache
-C:\Users\Jonasz\Downloads\1553437514_ed_prometheus\Source\obj\Debug\EnhancedDevelopment.Prometheus.csproj.CoreCompileInputs.cache
