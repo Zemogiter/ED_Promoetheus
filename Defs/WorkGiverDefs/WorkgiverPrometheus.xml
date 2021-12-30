@@ -33,19 +33,4 @@
 		</requiredCapacities>
 	</WorkGiverDef>
 
-	<WorkGiverDef>
-		<defName>DoBillsCompressing</defName>
-		<giverClass>WorkGiver_DoBill</giverClass>
-		<workType>Crafting</workType>
-		<priorityInType>104</priorityInType>
-		<fixedBillGiverDefs>
-			<li>MolecularCompressor</li>
-		</fixedBillGiverDefs>
-		<verb>compress</verb>
-		<gerund>compressing</gerund>
-		<requiredCapacities>
-			<li>Manipulation</li>
-		</requiredCapacities>
-	</WorkGiverDef>
-
 </Defs>

@@ -34,14 +34,11 @@ In the event that ground teams or allied ships fail to make contact a general de
 
 3. Power Up
 
-Power Transfer
+4. Power Transfer
 
-4. Basic Repairs
+5. Basic Repairs
 
-5. Bringing Specific Systems Online
-
-6. Shields 
-
+6. Bringing Specific Systems Online
 
 7. Laser Drill
 
